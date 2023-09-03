@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title> CSS selectors </title>
+  <style type="text/css">
+  h3.cls {text-align:left;color:blue}
+  p.cls {text-align:left;}
+  p.cls2 {text-align:center;color:red}
+  </style>
+</head>
+<body>
+  <h3 class="cls"> cls style</h3>
+  <p class="cls2"> cls2 style</p>
+  <p class="cls"> cls p style</p>
+</body>
+</html>
